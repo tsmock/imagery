@@ -16,20 +16,14 @@
                     <encoding>UTF-8</encoding>
                 </source-folder>
                 <source-folder>
-                    <label>src</label>
-                    <type>java</type>
-                    <location>src</location>
-                    <encoding>UTF-8</encoding>
+                    <label>F:\Java\josm\core\src</label>
+                    <location>F:\Java\josm\core\src</location>
                 </source-folder>
                 <source-folder>
                     <label>F:\Java\josm\core\src</label>
                     <type>java</type>
                     <location>F:\Java\josm\core\src</location>
                     <encoding>UTF-8</encoding>
-                </source-folder>
-                <source-folder>
-                    <label>F:\Java\josm\core\src</label>
-                    <location>F:\Java\josm\core\src</location>
                 </source-folder>
             </folders>
             <ide-actions>
@@ -53,10 +47,6 @@
             <view>
                 <items>
                     <source-folder style="packages">
-                        <label>src</label>
-                        <location>src</location>
-                    </source-folder>
-                    <source-folder style="packages">
                         <label>F:\Java\josm\core\src</label>
                         <location>F:\Java\josm\core\src</location>
                     </source-folder>
@@ -76,12 +66,8 @@
         </general-data>
         <java-data xmlns="http://www.netbeans.org/ns/freeform-project-java/3">
             <compilation-unit>
-                <package-root>src</package-root>
-                <classpath mode="compile">../../core/src</classpath>
-                <source-level>1.6</source-level>
-            </compilation-unit>
-            <compilation-unit>
                 <package-root>F:\Java\josm\core\src</package-root>
+                <classpath mode="compile">../../core/src</classpath>
                 <source-level>1.6</source-level>
             </compilation-unit>
         </java-data>
